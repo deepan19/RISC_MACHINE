@@ -1,0 +1,55 @@
+module datapath_tb();
+    reg [15:0] datapath_in;
+    reg [2:0] writenum,readnum;
+    reg loada,loadb,asel,bsel,loadc,loads,vsel,write,clk,err;
+    reg [1:0] shift,ALUop;
+    wire [15:0] datapath_out;
+    wire Z_out;
+
+    datapath DUT(datapath_in,writenum,write,readnum,clk,loada,loadb,shift,asel,bsel,ALUop,loads,loadc,vsel,Z_out,datapath_out);
+
+    task checker;
+        input [15:0] expected_datapath_out;
+
+        begin
+            if(expected_datapath_out!==datapath_out)begin
+                $display("ERROR ** actual:%b, expected:%b",datapath_out,expected_datapath_out);
+                err = 1'b1;
+        end
+        end
+    endtask
+
+    initial begin
+    clk = 0; #5;
+    forever begin
+        clk = 1; #5;
+        clk = 0; #5;
+    end
+    end
+
+    initial begin
+        write = 1'b1;
+        datapath_in = 16'b0000000000000111;
+        writenum = 3'b000;
+        #10;
+        datapath_in = 16'b0000000000000010;
+        writenum = 3'b001;
+        #10;
+        loada=1'b1;
+        loadb=1'b0;
+        readnum = 3'b000;
+        #10;
+        loada=1'b0;
+        loadb=1'b1;
+        readnum = 3'b001;
+        #10;
+    end
+
+endmodule
+
+     
+
+
+            
+
+

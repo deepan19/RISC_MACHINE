@@ -1,0 +1,11 @@
+Info (10281): Verilog HDL Declaration information at cpu.v(12): object "cond" differs only in case from object "COND" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/Lab 7 pre/Lab 6 pre/cpu.v Line: 12
+Info (10281): Verilog HDL Declaration information at cpu.v(38): object "writepc" differs only in case from object "WRITEPC" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/Lab 7 pre/Lab 6 pre/cpu.v Line: 38
+Warning (10273): Verilog HDL warning at lab8_top.v(23): extended using "x" or "z" File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 23
+Warning (10273): Verilog HDL warning at lab8_top.v(29): extended using "x" or "z" File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 29
+Warning (10273): Verilog HDL warning at lab8_top.v(30): extended using "x" or "z" File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 30
+Info (10281): Verilog HDL Declaration information at lab8_top.v(17): object "eq1" differs only in case from object "EQ1" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 17
+Info (10281): Verilog HDL Declaration information at lab8_top.v(17): object "eq2" differs only in case from object "EQ2" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 17
+Info (10281): Verilog HDL Declaration information at lab8_top.v(20): object "EQ3" differs only in case from object "eq3" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 20
+Info (10281): Verilog HDL Declaration information at lab8_top.v(25): object "eq4" differs only in case from object "EQ4" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 25
+Info (10281): Verilog HDL Declaration information at lab8_top.v(27): object "EQ5" differs only in case from object "eq5" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 27
+Info (10281): Verilog HDL Declaration information at lab8_top.v(32): object "eq6" differs only in case from object "EQ6" in the same scope File: C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 8/lab8_top.v Line: 32

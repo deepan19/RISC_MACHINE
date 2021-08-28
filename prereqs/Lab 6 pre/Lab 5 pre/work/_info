@@ -1,0 +1,478 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 4
+vALU
+Z0 !s110 1602567608
+!i10b 1
+!s100 cINR0<G1EdEGg_4m6FULD1
+IBlJTMR:<E<3f6I0_J1XzZ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5
+w1602552757
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1602567608.000000
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vALU_tb
+R0
+!i10b 1
+!s100 =VDh2<D8aeYARGS8Q:QA@3
+I3<]X=092]P_za3j@50e=22
+R1
+R2
+w1602552191
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu_tb.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/alu_tb.v|
+!i113 1
+R5
+R6
+n@a@l@u_tb
+vdatapath
+R0
+!i10b 1
+!s100 Gnd7Iz@B2TN_mcOenVJC@2
+I0aRYV@mJoP`EbaB0D;DCE1
+R1
+R2
+Z7 w1602553184
+Z8 8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath.v
+Z9 FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath.v|
+!i113 1
+R5
+R6
+vdatapath_tb
+R0
+!i10b 1
+!s100 EK7i1j0[M9;R0^o9N>_2V1
+IE_dRE@ez2KaVUWiLH8D_V1
+R1
+R2
+w1602567230
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath_tb.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/datapath_tb.v|
+!i113 1
+R5
+R6
+vdecoder
+Z12 !s110 1602567609
+!i10b 1
+!s100 Q2AUY@Tb<lhST9EFkAhZj0
+IRk:@iCK=3c792mLzc0P?71
+R1
+R2
+Z13 w1602552689
+Z14 8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile.v
+Z15 FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile.v
+L0 38
+R3
+r1
+!s85 0
+31
+Z16 !s108 1602567609.000000
+Z17 !s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile.v|
+!i113 1
+R5
+R6
+vinput_iface
+R12
+!i10b 1
+!s100 9=VLblSjgG9jVglRfIOhH2
+I@P<LNI;z]d3f9zd_]EFP<0
+R1
+R2
+Z19 w1602566373
+Z20 8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top.v
+Z21 FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top.v
+L0 109
+R3
+r1
+!s85 0
+31
+R16
+Z22 !s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top.v|
+!i113 1
+R5
+R6
+vlab5_check_1
+R0
+!i10b 1
+!s100 T3ka=^BB;d_AjbA^7f1HI1
+IdedkN;R9HHF:ZRdDo`>l22
+R1
+R2
+Z24 w1602361100
+Z25 8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_autograder_check.v
+Z26 FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_autograder_check.v
+L0 7
+R3
+r1
+!s85 0
+31
+R4
+Z27 !s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_autograder_check.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_autograder_check.v|
+!i113 1
+R5
+R6
+vlab5_check_2
+R0
+!i10b 1
+!s100 6D@D82^C[[R7ek=b@Z@HV0
+IVF<jiIH@6e`UD6Q9cl:=_0
+R1
+R2
+R24
+R25
+R26
+L0 84
+R3
+r1
+!s85 0
+31
+R4
+R27
+R28
+!i113 1
+R5
+R6
+vlab5_check_3
+R0
+!i10b 1
+!s100 ?Y0zmS]RZ:l`ZW`_l1A`B3
+I8DoZ0PlOiMcEiT8^;`RFh0
+R1
+R2
+R24
+R25
+R26
+L0 140
+R3
+r1
+!s85 0
+31
+R4
+R27
+R28
+!i113 1
+R5
+R6
+vlab5_check_4
+R0
+!i10b 1
+!s100 TaGY<AYU:NOnFZ>E;dIPO2
+Ij=[OERZf9Fgz:[NL`gj6a2
+R1
+R2
+R24
+R25
+R26
+L0 165
+R3
+r1
+!s85 0
+31
+R4
+R27
+R28
+!i113 1
+R5
+R6
+vlab5_top
+R12
+!i10b 1
+!s100 AIV0M5ZV1AhcPcf@?HTFj3
+IDIb8JdFYg4N9eQhYO`mi50
+R1
+R2
+R19
+R20
+R21
+L0 57
+R3
+r1
+!s85 0
+31
+R16
+R22
+R23
+!i113 1
+R5
+R6
+vlab5_top_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R12
+!i10b 1
+!s100 17C:MgEFT`abaYf;U;1WN3
+I6_nJOfI^^7;[CB1z;CTdX1
+R1
+!s105 lab5_top_tb_sv_unit
+S1
+R2
+w1602361093
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top_tb.sv
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/lab5_top_tb.sv|
+!i113 1
+o-work work -sv
+R6
+vloadff
+R0
+!i10b 1
+!s100 hFVTSV:lHG^DI^Ejom9L01
+I7ZGTokKVzAVc6a^8A4c>`3
+R1
+R2
+R7
+R8
+R9
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vloadss
+R0
+!i10b 1
+!s100 0[e<4_k_H48T7TjlZcYFC1
+IkA=?`;Vz`j2[^8m<RM4KF1
+R1
+R2
+R7
+R8
+R9
+L0 46
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+vmuxb8
+R12
+!i10b 1
+!s100 @0DDO]2?YAJJTSigL>VHS3
+I:0`E5?jFVbDOZEM05Ann_1
+R1
+R2
+R13
+R14
+R15
+L0 49
+R3
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R5
+R6
+vregfile
+R12
+!i10b 1
+!s100 ?N[bYk;JKK0SRlM]6n6;Z2
+IYAY=Xbzci71FMS9YYP:]`0
+R1
+R2
+R13
+R14
+R15
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R5
+R6
+vregfile_tb
+R12
+!i10b 1
+!s100 OJeMje^b74bfc0lnFLNjF3
+IlLRC6@Uc:5i[k2E:Yb3HB3
+R1
+R2
+w1602552108
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile_tb.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/regfile_tb.v|
+!i113 1
+R5
+R6
+vregister
+R12
+!i10b 1
+!s100 _@N2`[T5M3oF12nzEGM8i1
+IcASC<>1;Vif3ojozPD6]73
+R1
+R2
+R13
+R14
+R15
+L0 73
+R3
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R5
+R6
+vshifter
+R12
+!i10b 1
+!s100 :1JB4=OfRGURoDCL:Qdg>2
+IJj]8^;WoIknQe12X]>HJH3
+R1
+R2
+w1602552834
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter.v|
+!i113 1
+R5
+R6
+vshifter_tb
+R0
+!i10b 1
+!s100 04o5f^Q0^ME9bfP<khT8B2
+INazz]<fa9U@=?eL8d[WW13
+R1
+R2
+w1602552347
+8C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter_tb.v
+FC:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1602567607.000000
+!s107 C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Kdeep/OneDrive/Desktop/CPEN 211/Lab 5/shifter_tb.v|
+!i113 1
+R5
+R6
+vsseg
+R12
+!i10b 1
+!s100 76B9LgOcjnl8iSFGlj@dl2
+Ig6ZX5XbjRdeQ63UIC_2ic3
+R1
+R2
+R19
+R20
+R21
+L0 183
+R3
+r1
+!s85 0
+31
+R16
+R22
+R23
+!i113 1
+R5
+R6
+vvDFF
+R12
+!i10b 1
+!s100 @H=HKBFWk`NIEL2fGUK?B0
+I5LYQT0QaVHX6D=VTedOoX1
+R1
+R2
+R19
+R20
+R21
+L0 148
+R3
+r1
+!s85 0
+31
+R16
+R22
+R23
+!i113 1
+R5
+R6
+nv@d@f@f

@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Z_out",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[8]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[9]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[10]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[11]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[12]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[13]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[14]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_out[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ALUop[1]",
+					"strict" : false
+				},
+				{
+					"name" : "loads",
+					"strict" : false
+				},
+				{
+					"name" : "ALUop[0]",
+					"strict" : false
+				},
+				{
+					"name" : "asel",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "bsel",
+					"strict" : false
+				},
+				{
+					"name" : "shift[1]",
+					"strict" : false
+				},
+				{
+					"name" : "shift[0]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "loadc",
+					"strict" : false
+				},
+				{
+					"name" : "readnum[2]",
+					"strict" : false
+				},
+				{
+					"name" : "readnum[0]",
+					"strict" : false
+				},
+				{
+					"name" : "readnum[1]",
+					"strict" : false
+				},
+				{
+					"name" : "loada",
+					"strict" : false
+				},
+				{
+					"name" : "loadb",
+					"strict" : false
+				},
+				{
+					"name" : "vsel",
+					"strict" : false
+				},
+				{
+					"name" : "writenum[1]",
+					"strict" : false
+				},
+				{
+					"name" : "writenum[2]",
+					"strict" : false
+				},
+				{
+					"name" : "writenum[0]",
+					"strict" : false
+				},
+				{
+					"name" : "write",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[8]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[10]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[9]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[12]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[11]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[13]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[14]",
+					"strict" : false
+				},
+				{
+					"name" : "datapath_in[15]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
